@@ -1,12 +1,12 @@
 # diffAM-RGN: Enhancing the Transferability of Adversarial Makeup on Facial Recognition with Diffusion Model and Learnable Region
 
 ## Overview
-diffAM-RGN is designed to enhance the transferability of adversarial makeup on facial recognition systems, combining a diffusion model with targeted application on learnable regions. This innovative approach aims to improve the effectiveness of adversarial attacks, contributing to the ongoing discussions around privacy and security in biometric systems.
+DiffAM-RGN is designed to enhance the transferability of adversarial makeup on facial recognition systems, combining a diffusion model with targeted application on learnable regions. This innovative approach aims to improve the effectiveness of adversarial attacks, contributing to the ongoing discussions around privacy and security in biometric systems.
 
 ## Features
-- **Diffusion Model**: Generates realistic adversarial makeup to challenge facial recognition systems.
-- **Learnable Region Guidance**: Uses the DINO model to target specific facial regions for precise makeup application.
-- **CLIP-based Makeup Loss**: Ensures the adversarial makeup aligns closely with the intended aesthetic and disruptive effects.
+- Diffusion Model: Generates realistic adversarial makeup to challenge facial recognition systems.
+- Learnable Region Guidance: Uses the DINO model to target specific facial regions for precise makeup application.
+- CLIP-based Makeup Loss: Ensures the adversarial makeup aligns closely with the intended aesthetic and disruptive effects.
 
 ## Coming Soon
 The complete code for diffAM-RGN will be made publicly available in February. Stay tuned for the official release and further updates!
